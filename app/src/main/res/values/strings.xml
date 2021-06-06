@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NumberList</string>
+    <string name="play_audio">Click To Play Audio</string>
+</resources>
